@@ -1,0 +1,8 @@
+cd chatbot
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+--click on the link--
+
+go to frontend-> index.html -> open with live server
+Enjoy.
